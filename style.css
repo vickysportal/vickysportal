@@ -1,7 +1,7 @@
 /* From My Blog Page*/
 body {
   margin: 0;
-  background-image: url("/assets/ufo.jpg");
+  background-image: url("assets/ufo.jpg");
 }
 
 navbar {
